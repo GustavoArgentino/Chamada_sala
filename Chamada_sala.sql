@@ -40,4 +40,5 @@ VALUES
 (28, 'Vitor Hugo Alves', 'Basso', 16),
 (29, 'Victor dos Santos', 'Calori', 16),
 (30, 'Vinicius Rickelme Pavani', 'de Souza', 17),
-(31, 'Wesley', 'Batista', 17);
+(31, 'Wesley', 'Batista', 17),
+(32, 'Alice', 'Campos', 17);
