@@ -1,4 +1,4 @@
-INSERT INTO Alunos (ID, nome, sobrenome, idade)
+INSERT INTO Alunos (ID, Nome, Sobrenome, Idade)
 VALUES
 (1, 'Adrielly', 'Inocencio', 17),
 (2, 'Andrey', 'Sousa Tristão', 17),
