@@ -1,3 +1,13 @@
+CREATE TABLE Alunos (
+    ID int,
+    Nome varchar(255),
+    Sobrenome varchar(255),
+    Idade varchar(255)
+);
+
+
+
+
 INSERT INTO Alunos (ID, Nome, Sobrenome, Idade)
 VALUES
 (1, 'Adrielly', 'Inocencio', 17),
