@@ -41,4 +41,5 @@ VALUES
 (29, 'Victor dos Santos', 'Calori', 16),
 (30, 'Vinicius Rickelme Pavani', 'de Souza', 17),
 (31, 'Wesley', 'Batista', 17),
-(32, 'Alice', 'Campos', 17);
+(32, 'Alice', 'Campos', 17),
+(33, 'Rafaela', 'dos Santos', 17);
