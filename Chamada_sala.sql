@@ -43,3 +43,8 @@ VALUES
 (31, 'Wesley', 'Batista', 17),
 (32, 'Alice', 'Campos', 17),
 (33, 'Rafaela', 'dos Santos', 17);
+
+SELECT * FROM `Alunos` ORDER BY ID;
+SELECT * FROM `Alunos` ORDER BY Estado;
+SELECT * FROM `Alunos` ORDER BY Idade;
+SELECT * FROM `Alunos` ORDER BY Nome;
